@@ -6,4 +6,5 @@
 5-execute and 6-multiple file a script that adds execute permission to the owner of the file hello and a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 
 7-everybody Added execute to owner , group and other user
-8-James_Bond 
+8-James_Bond
+10-mirror_permissions - Referencd the olleh permissions 
